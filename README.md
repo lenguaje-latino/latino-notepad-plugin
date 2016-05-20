@@ -9,6 +9,6 @@
 5. Reinicie Notepad++ para que tome la configuracion
 6. Abra un archivo de latino, extension (*.lat)
 
-![latino notepad](https://raw.githubusercontent.com/lenguaje-latino/latino-notepad-plugin/master/latino_notepad.png "latino notepad")
+![latino notepad](https://raw.githubusercontent.com/primitivorm/latino-notepad-plugin/master/latino_notepad.png "latino notepad")
 
 ####Cualquier aportación o sugerencia es bienvenida
